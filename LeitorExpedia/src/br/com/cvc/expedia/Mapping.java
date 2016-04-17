@@ -5,9 +5,7 @@ import java.util.HashMap;
 import java.util.List;
 import java.util.Map;
 
-import br.com.cvc.expedia.algorithm.CharacterSubstitutionInterface;
 import br.com.cvc.expedia.algorithm.LongestCommonSubSequence;
-import br.com.cvc.expedia.algorithm.WeightedLevenshtein;
 
 public class Mapping {
 
